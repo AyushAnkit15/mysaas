@@ -9,7 +9,11 @@ https://app.netlify.com/sites/beamish-biscotti-f74477/overview
 
 
 Technologies Used 
-MERN STACK : 
-Frameworks  :React Js , Express JS, Tailwind
-JavaScript Runtime(backend) :Node Js 
+
+MERN STACK :  
+ 
+Frameworks  :React Js , Express JS, Tailwind 
+ 
+JavaScript Runtime(backend) :Node Js  
+ 
 Database  :MongoDB
