@@ -40,6 +40,8 @@ POST /api/v1/dale
 
 POST / api/v1/dalle:
 •	Header:
+
+
 •	Content-Type: application/json
 •	Request:
 •	Method: POST
